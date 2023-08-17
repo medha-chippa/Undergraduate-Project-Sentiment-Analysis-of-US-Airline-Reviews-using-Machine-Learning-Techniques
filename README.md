@@ -4,16 +4,14 @@ This project was designed to carry out a sentiment analysis task on airline revi
 
 The dataset comprises of 15 attributes and 14641 samples, acquired from kaggle.
 
-![image](https://github.com/medha-chippa/Air_Line_Reviews/assets/55135185/e36a9c11-2bba-4ead-8731-d7d3b576162d)
+![image](https://github.com/medha-chippa/Undergraduate_Project-Sentiment_Analysis_of_US_Airline_Reviews_using_Machine_Learning_Techniques/assets/55135185/b2e9b601-ecd7-4a5a-b1f8-423dd24eb6c0)
 
 Two versions of the models were developed viz. through the pipeline and without the pipeline
 
-![image](https://github.com/medha-chippa/Air_Line_Reviews/assets/55135185/11f163eb-0b84-4f7d-a6ed-676b5e739042)
+![image](https://github.com/medha-chippa/Undergraduate_Project-Sentiment_Analysis_of_US_Airline_Reviews_using_Machine_Learning_Techniques/assets/55135185/41f49cae-35e3-459f-bfe3-a965337ec55d)
+
 
 The models were then deployed through a UI and test cases were run.
 
-![image](https://github.com/medha-chippa/Air_Line_Reviews/assets/55135185/9e7c0449-9bd8-46e5-a5b0-cc02541efc72)
+![image](https://github.com/medha-chippa/Undergraduate_Project-Sentiment_Analysis_of_US_Airline_Reviews_using_Machine_Learning_Techniques/assets/55135185/6af6d429-653f-46cd-9dab-2c5abba33b61)
 
-![image](https://github.com/medha-chippa/Air_Line_Reviews/assets/55135185/9f161080-9e2a-4805-a58b-8bc85e1185d0)
-
-![image](https://github.com/medha-chippa/Air_Line_Reviews/assets/55135185/6eebe9a7-b98c-4773-8975-8f731641122f)
